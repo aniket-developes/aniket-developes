@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aniket-developes
-- 👀 I’m interested in dwvwlopeing websites
+- 👋 Hi, I’m @aniket
+- 👀 I’m interested in devlopeing websites
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
